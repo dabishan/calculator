@@ -1,12 +1,11 @@
 .calculator {
     margin: 300px auto;
     font-family: sans-serif;
-    max-width:400px;
+    max-width:370px;
 }
 
 .calculator .header {
     margin-bottom: 15px;
-    padding: 15px;
 }
 
 .calculator .header .display {
@@ -55,13 +54,13 @@
 }
 
 .key.one .keypad {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
 }
 
 .key.two .keypad {
-    width: 112px;
-    height: 50px;
+    width: 172px;
+    height: 80px;
 }
 
 .dark .keypad {
@@ -69,5 +68,7 @@
 }
 
 .red .keypad{
+    border: solid 1px #ff6161;
+
     background: #ff8689;
 }
