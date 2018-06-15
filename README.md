@@ -1,0 +1,1 @@
+Simple Calculator app that carries out basic calculation.
